@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What user interface elements do you prefer for displaying the wrap ether function?\", \"option1\": \"A simple button that users can click to wrap ether\", \"option2\": \"A more detailed form where users can input the amount of ether to wrap\"}, {\"question 2\": \"How would you like to handle user feedback after the wrapping process?\", \"option1\": \"Display a success message with transaction details\", \"option2\": \"Redirect to a separate transaction history page showing all actions\"}], \"input_token_count\": 455, \"output_token_count\": 113, \"time_taken\": \"0:00:02.959685\"}",
+        "message_id": "guest02102024144049",
+        "timestamp": "02102024144055",
+        "component_file_name": "purple_header_component_1727878569",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Generate a way to wrap ether on the contract 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2 on ethereum mainnet, Make sure it assumes that the wallet is connected and doesn't try to do it from the component",
         "message_id": "guest02102024144049",
