@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific features or functionalities do you want to include when wrapping Ether using this contract?\", \"option1\": \"Basic wrapping functionality only\", \"option2\": \"Additional features like transaction history tracking\"}, {\"question 2\": \"How do you envision the user interface for this wrapping process? Should it be simple or more detailed?\", \"option1\": \"Simple and straightforward\", \"option2\": \"Detailed with advanced options and information\"}], \"input_token_count\": 358, \"output_token_count\": 101, \"time_taken\": \"0:00:03.345095\"}",
+        "timestamp": "02102024141635",
+        "message_id": "guest02102024141628"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'm on it, developing a method to wrap ether on that contract.",
         "timestamp": "02102024141630",
