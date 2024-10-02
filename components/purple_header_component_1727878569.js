@@ -21,47 +21,47 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <ul id="desktop-menu-links" class="flex grow justify-center flex-wrap items-center">
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_1-link"
+                id="Home-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_1.html"
+                href="Home.html"
               >
-                HEADER_NAVBAR_TEXT_1
+                Home
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_2-link"
+                id="Wrap Tokens-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_2.html"
+                href="Wrap Tokens.html"
               >
-                HEADER_NAVBAR_TEXT_2
+                Wrap Tokens
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_3-link"
+                id="How It Works-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_3.html"
+                href="How It Works.html"
               >
-                HEADER_NAVBAR_TEXT_3
+                How It Works
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_4-link"
+                id="FAQs-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_4.html"
+                href="FAQs.html"
               >
-                HEADER_NAVBAR_TEXT_4
+                FAQs
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_5-link"
+                id="Connect Wallet-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_5.html"
+                href="Connect Wallet.html"
               >
-                HEADER_NAVBAR_TEXT_5
+                Connect Wallet
               </a>
             </li>
           </ul>
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_1-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_1.html">HEADER_NAVBAR_TEXT_1</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Home</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_2-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_2.html">HEADER_NAVBAR_TEXT_2</a>
+                <a id="mobile-Wrap Tokens-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Wrap Tokens.html">Wrap Tokens</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_3-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_3.html">HEADER_NAVBAR_TEXT_3</a>
+                <a id="mobile-How It Works-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="How It Works.html">How It Works</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_4-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_4.html">HEADER_NAVBAR_TEXT_4</a>
+                <a id="mobile-FAQs-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="FAQs.html">FAQs</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_5-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_5.html">HEADER_NAVBAR_TEXT_5</a>
+                <a id="mobile-Connect Wallet-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Connect Wallet.html">Connect Wallet</a>
               </li>
             </ul>
           </nav>
