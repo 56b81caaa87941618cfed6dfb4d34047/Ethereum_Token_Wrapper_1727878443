@@ -1,0 +1,18 @@
+{
+    "id": "purple_header_component-ff2483bc-ed7a-e2b2-5469-6c79b0ca15c3",
+    "name": "purple_header_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 2,
+    "x": "100",
+    "y": "10",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
